@@ -1,0 +1,376 @@
+.preview-postmodernist {
+  --paper: #f7f1ea;
+  --ink: #19214e;
+  --muted: #454960;
+  --line: #a7a9b8;
+  --blue: #263575;
+  --coral: #f17159;
+  --lime: #d8e24b;
+  --sky: #8bc8d1;
+
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.55;
+}
+
+.preview-postmodernist *,
+.preview-postmodernist *::before,
+.preview-postmodernist *::after {
+  box-sizing: border-box;
+}
+
+.preview-postmodernist a {
+  color: inherit;
+  text-underline-offset: 0.2em;
+}
+
+.preview-postmodernist a:focus-visible {
+  outline: 3px solid var(--coral);
+  outline-offset: 4px;
+}
+
+.preview-postmodernist .skip-link {
+  position: fixed;
+  z-index: 10;
+  top: 0.5rem;
+  left: 0.5rem;
+  padding: 0.75rem 1rem;
+  transform: translateY(-150%);
+  background: var(--ink);
+  color: #fff;
+}
+
+.preview-postmodernist .skip-link:focus {
+  transform: translateY(0);
+}
+
+.preview-postmodernist .page-shell {
+  width: min(100% - 3rem, 1320px);
+  margin-inline: auto;
+}
+
+.preview-postmodernist .site-header {
+  min-height: 5.5rem;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 1.5rem;
+  border-bottom: 3px double var(--ink);
+}
+
+.preview-postmodernist .wordmark {
+  width: fit-content;
+  padding: 0.15rem 0.5rem;
+  transform: rotate(-2deg);
+  border: 2px solid var(--ink);
+  background: var(--lime);
+  font-size: 1.1rem;
+  font-weight: 900;
+  letter-spacing: -0.08em;
+  text-decoration: none;
+}
+
+.preview-postmodernist .site-nav,
+.preview-postmodernist .site-footer nav {
+  display: flex;
+  gap: 1.75rem;
+}
+
+.preview-postmodernist .site-nav a,
+.preview-postmodernist .bag-link,
+.preview-postmodernist .site-footer a {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.preview-postmodernist .bag-link {
+  justify-self: end;
+}
+
+.preview-postmodernist .bag-link span {
+  display: inline-grid;
+  width: 1.55rem;
+  aspect-ratio: 1;
+  margin-left: 0.3rem;
+  place-items: center;
+  border: 1px solid currentcolor;
+  border-radius: 50%;
+}
+
+.preview-postmodernist .hero {
+  position: relative;
+  min-height: 650px;
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  margin-top: 2rem;
+  overflow: hidden;
+  border: 1px solid var(--ink);
+  background: #f1e8db;
+}
+
+.preview-postmodernist .hero-copy {
+  z-index: 3;
+  grid-column: 1 / 7;
+  grid-row: 1;
+  align-self: center;
+  margin-right: -3rem;
+  padding: clamp(2rem, 4vw, 4rem);
+  transform: rotate(-1deg);
+  border: 3px solid var(--ink);
+  background: #fffdf8;
+  box-shadow: 0.8rem 0.8rem 0 var(--coral);
+}
+
+.preview-postmodernist .eyebrow,
+.preview-postmodernist .product-label {
+  font-family: "Courier New", monospace;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.preview-postmodernist .hero-copy h1 {
+  max-width: 11ch;
+  margin: 1.4rem 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(3.5rem, 6.3vw, 6rem);
+  font-weight: 700;
+  line-height: 0.96;
+  letter-spacing: -0.055em;
+}
+
+.preview-postmodernist .hero-support {
+  max-width: 34rem;
+  margin: 0 0 2rem;
+  color: var(--muted);
+  font-size: clamp(1rem, 1.3vw, 1.18rem);
+  line-height: 1.6;
+}
+
+.preview-postmodernist .hero-action {
+  min-height: 3.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2.5rem;
+  padding: 0.9rem 1.2rem;
+  border: 2px solid var(--ink);
+  background: var(--blue);
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.preview-postmodernist .hero-action:hover {
+  background: var(--coral);
+  color: var(--ink);
+}
+
+.preview-postmodernist .hero-product {
+  position: relative;
+  z-index: 1;
+  grid-column: 6 / -1;
+  grid-row: 1;
+  min-width: 0;
+  min-height: 100%;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border-left: 3px solid var(--ink);
+  background: var(--blue);
+}
+
+.preview-postmodernist .shirt-image {
+  z-index: 2;
+  width: min(82%, 500px);
+  height: auto;
+  transform: rotate(2deg);
+  border: 3px solid var(--ink);
+  box-shadow: 0.75rem 0.75rem 0 var(--lime);
+}
+
+.preview-postmodernist .shape {
+  position: absolute;
+  display: block;
+  pointer-events: none;
+}
+
+.preview-postmodernist .shape-orbit {
+  top: 8%;
+  right: 9%;
+  width: 8rem;
+  aspect-ratio: 1;
+  border: 1rem dotted var(--sky);
+  border-radius: 50%;
+}
+
+.preview-postmodernist .shape-dot {
+  bottom: 12%;
+  left: 11%;
+  width: 4.5rem;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: var(--coral);
+}
+
+.preview-postmodernist .shape-square {
+  top: 18%;
+  left: 8%;
+  width: 2.5rem;
+  aspect-ratio: 1;
+  transform: rotate(12deg);
+  background: var(--lime);
+}
+
+.preview-postmodernist .product-label {
+  position: absolute;
+  right: 0.75rem;
+  bottom: 0.45rem;
+  z-index: 3;
+  padding: 0.3rem 0.45rem;
+  background: var(--paper);
+}
+
+.preview-postmodernist .preview-note,
+.preview-postmodernist .claim-note {
+  max-width: 62rem;
+  margin: 1rem auto 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.preview-postmodernist .direction-notes {
+  max-width: 62rem;
+  margin: 5rem auto 2rem;
+}
+
+.preview-postmodernist .direction-notes h2 {
+  max-width: 18ch;
+  margin: 0.75rem 0 2rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2rem, 4vw, 3.4rem);
+  line-height: 1.05;
+}
+
+.preview-postmodernist .notes-grid {
+  display: grid;
+  grid-template-columns: 11rem 1fr;
+  gap: 1rem 2rem;
+  margin: 0;
+  padding-top: 1.5rem;
+  border-top: 3px double var(--ink);
+}
+
+.preview-postmodernist .notes-grid dt {
+  font-family: "Courier New", monospace;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.preview-postmodernist .notes-grid dd {
+  margin: 0;
+  color: var(--muted);
+}
+
+.preview-postmodernist .notes-grid ul {
+  display: grid;
+  gap: 0.65rem;
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.preview-postmodernist .claim-note {
+  margin-bottom: 4rem;
+  padding-top: 1rem;
+  border-top: 3px double var(--ink);
+}
+
+.preview-postmodernist .site-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.5rem 0;
+  border-top: 3px double var(--ink);
+  font-size: 0.75rem;
+}
+
+@media (width <= 760px) {
+  .preview-postmodernist .page-shell {
+    width: min(100% - 1.5rem, 1320px);
+  }
+
+  .preview-postmodernist .site-header {
+    min-height: 4.5rem;
+    grid-template-columns: 1fr auto;
+    gap: 0.5rem;
+  }
+
+  .preview-postmodernist .site-nav {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    justify-content: center;
+    padding: 0.65rem 0;
+    border-top: 1px solid var(--line);
+  }
+
+  .preview-postmodernist .hero {
+    min-height: 0;
+    grid-template-columns: 1fr;
+    margin-top: 1rem;
+    overflow: visible;
+  }
+
+  .preview-postmodernist .hero-copy {
+    grid-column: 1;
+    grid-row: 1;
+    margin: 1rem 1rem -1.5rem;
+    padding: 1.75rem 1.25rem 2rem;
+  }
+
+  .preview-postmodernist .hero-copy h1 {
+    max-width: 10ch;
+    margin: 1rem 0;
+    font-size: clamp(3.1rem, 11vw, 4.5rem);
+  }
+
+  .preview-postmodernist .hero-product {
+    grid-column: 1;
+    grid-row: 2;
+    min-height: 24rem;
+    border-top: 3px solid var(--ink);
+    border-left: 0;
+  }
+
+  .preview-postmodernist .shirt-image {
+    width: min(84%, 390px);
+  }
+
+  .preview-postmodernist .shape-orbit {
+    width: 5.5rem;
+    border-width: 0.7rem;
+  }
+
+  .preview-postmodernist .direction-notes {
+    margin-top: 3.5rem;
+  }
+
+  .preview-postmodernist .notes-grid {
+    grid-template-columns: 1fr;
+    gap: 0.45rem;
+  }
+
+  .preview-postmodernist .notes-grid dd + dt {
+    margin-top: 1rem;
+  }
+
+  .preview-postmodernist .site-footer {
+    flex-direction: column;
+  }
+}

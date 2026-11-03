@@ -5,19 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="An unfinished, neutral T-shirt storefront for the IS117 Brand Studio. Build a brand through deliberate, visible design choices."
+      content="PUREFORM's clean, everyday T-shirt storefront."
     />
-    <title>Your Brand — neutral storefront starter</title>
+    <title>PUREFORM — everyday T-shirts</title>
     <link rel="icon" href="data:," />
     <link rel="stylesheet" href="styles.css" />
     <script src="shop.js" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
-    <aside class="starter-notice" aria-label="Starter information">
+    <aside class="starter-notice" aria-label="Brand status">
       <span
-        ><strong>Unfinished by design.</strong> This is a neutral teaching
-        starter. Replace its identity after your brand decisions.</span
+        ><strong>PUREFORM is in progress.</strong> Product information remains
+        classroom demo content.</span
       >
       <a href="studio.html"
         >Enter the studio <span aria-hidden="true">↗</span></a
@@ -27,13 +27,13 @@
       <a
         class="brand-link"
         href="index.html"
-        aria-label="Your Brand storefront home"
+        aria-label="PUREFORM storefront home"
         ><img
           class="wordmark"
           src="assets/wordmark.svg"
-          alt="Neutral starter wordmark"
-          width="175"
-          height="26"
+          alt="PUREFORM logo with a geometric P symbol and wordmark"
+          width="430"
+          height="120"
       /></a>
       <nav class="main-nav" aria-label="Main navigation">
         <a class="nav-link" href="index.html" aria-current="page">Shop</a>
@@ -48,7 +48,25 @@
     </header>
 
     <main id="main">
-      <section class="product-section wrap" aria-labelledby="product-title">
+      <section class="storefront-hero wrap" aria-labelledby="hero-title">
+        <div class="storefront-hero-copy">
+          <p class="eyebrow">PUREFORM / EVERYDAY ESSENTIALS</p>
+          <h1 id="hero-title">Simplicity Looks Good on You.</h1>
+          <a class="button button-primary hero-action" href="#product">
+            Shop the T-Shirt <span aria-hidden="true">↘</span>
+          </a>
+        </div>
+        <p class="hero-support">
+          Comfortable, versatile everyday essentials made to fit your style,
+          your routine, and your budget.
+        </p>
+      </section>
+
+      <section
+        id="product"
+        class="product-section wrap"
+        aria-labelledby="product-title"
+      >
         <div class="product-visual">
           <div class="visual-label">
             <span>001 / The starting point</span><span>Unbranded</span>
@@ -71,13 +89,43 @@
             <span class="status-dot" aria-hidden="true"></span> Neutral product
             / demo only
           </p>
-          <h1 id="product-title">The white<br />T-shirt.</h1>
+          <h2 id="product-title">The white<br />T-shirt.</h2>
           <p class="product-intro">A plain shirt. A place to begin.</p>
           <p class="muted product-description">
-            This starter has a working product page and room for a brand. Its
-            audience, personality, message, and visual direction are still yours
-            to decide.
+            PUREFORM is developing simple everyday T-shirts for young adults.
+            This page uses fictional product data and a temporary demo bag.
           </p>
+          <aside class="styling-tip" aria-label="Free styling tip">
+            <p class="styling-tip-label">Free styling tip</p>
+            <p class="styling-tip-copy">
+              Try a white tee with denim and a layer you already own.
+            </p>
+          </aside>
+          <fieldset class="style-goal" aria-describedby="style-goal-help">
+            <legend>Choose an optional style goal</legend>
+            <p id="style-goal-help" class="field-help">
+              Pick one to see a styling idea, or skip it and shop as usual.
+            </p>
+            <div class="style-goal-options">
+              <label class="style-goal-option">
+                <input type="radio" name="style-goal" value="simple" />
+                <span class="style-goal-choice">Keep my outfit simple</span>
+              </label>
+              <label class="style-goal-option">
+                <input type="radio" name="style-goal" value="match" />
+                <span class="style-goal-choice"
+                  >Match this with clothes I own</span
+                >
+              </label>
+            </div>
+            <p
+              id="style-goal-suggestion"
+              class="style-goal-suggestion"
+              role="status"
+              aria-live="polite"
+              hidden
+            ></p>
+          </fieldset>
           <div class="price-row">
             <p class="price">$28 <span>USD</span></p>
             <span class="micro-label">Fictional demo price</span>
@@ -129,7 +177,7 @@
             </div>
             <div>
               <dt>Brand identity</dt>
-              <dd>Not decided yet</dd>
+              <dd>PUREFORM</dd>
             </div>
             <div>
               <dt>Product claims</dt>
@@ -186,8 +234,8 @@
 
     <footer class="site-footer wrap">
       <p>
-        IS117 Brand Studio <span class="footer-separator"> / </span> Neutral
-        starter
+        IS117 Brand Studio <span class="footer-separator"> / </span>
+        PUREFORM draft
       </p>
       <p class="footer-tagline">Fictional product. Real design decisions.</p>
       <a href="https://github.com/kaw393939/is117-brand-studio#readme"

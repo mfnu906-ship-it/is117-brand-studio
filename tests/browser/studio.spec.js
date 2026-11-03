@@ -36,6 +36,36 @@ test("positive: a shopper can choose sizes, add items, and empty the demo bag", 
   await expect(page.locator("#bag-count")).toHaveText("0");
 });
 
+test("consistency: each optional style goal reveals its matching suggestion", async ({
+  page,
+}) => {
+  await page.goto("/");
+  const suggestion = page.locator("#style-goal-suggestion");
+
+  await page.getByLabel("Keep my outfit simple").check();
+  await expect(suggestion).toHaveText(
+    "Try the white tee with denim for a simple outfit.",
+  );
+  await page.getByLabel("Match this with clothes I own").check();
+  await expect(suggestion).toHaveText(
+    "Try the white tee with a layer you already own to build around your wardrobe.",
+  );
+});
+
+test("consistency: shopping works when no optional style goal is chosen", async ({
+  page,
+}) => {
+  await page.goto("/");
+  await expect(page.locator('input[name="style-goal"]:checked')).toHaveCount(0);
+  await expect(page.locator("#style-goal-suggestion")).toBeHidden();
+  await page.locator('input[name="size"][value="M"]').check();
+  await page
+    .getByRole("button", { name: "Add to demo bag", exact: true })
+    .click();
+  await expect(page.locator("#bag-count")).toHaveText("1");
+  await expect(page.locator("#bag-status")).toContainText("M");
+});
+
 test("keyboard: the skip link reaches main and the size controls work without a mouse", async ({
   page,
 }) => {
