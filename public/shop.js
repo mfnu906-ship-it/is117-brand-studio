@@ -9,8 +9,22 @@
   const bagStatus = document.querySelector("#bag-status");
   const bagItems = document.querySelector("#bag-items");
   const clearBag = document.querySelector("#clear-bag");
+  const styleGoal = document.querySelector(".style-goal");
+  const styleGoalSuggestion = document.querySelector("#style-goal-suggestion");
   const sizes = ["S", "M", "L", "XL"];
   const bag = [];
+
+  styleGoal?.addEventListener("change", (event) => {
+    const suggestions = {
+      simple: "Try the white tee with denim for a simple outfit.",
+      match:
+        "Try the white tee with a layer you already own to build around your wardrobe.",
+    };
+    const selectedGoal = event.target;
+    if (selectedGoal.name !== "style-goal") return;
+    styleGoalSuggestion.textContent = suggestions[selectedGoal.value];
+    styleGoalSuggestion.hidden = false;
+  });
 
   const renderBag = () => {
     bagCount.textContent = String(bag.length);

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 120" role="img" aria-labelledby="title description">
+  <title id="title">PUREFORM</title>
+  <desc id="description">A corner-built geometric P symbol next to the PUREFORM wordmark.</desc>
+  <g fill="#20231f">
+    <path d="M20 16h22v88H20zM42 16h48v22H42zM68 38h22v26H68zM42 64h26v22H42z" />
+    <text x="122" y="78" font-family="Trebuchet MS, Arial, sans-serif" font-size="48" font-weight="600" letter-spacing="1.9">PUREFORM</text>
+  </g>
+</svg>
