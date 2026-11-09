@@ -28,7 +28,6 @@ The primary need guides the page. Give the secondary card one contrasting need t
 ## Collaboration and peer review
 
 I worked with **Ghazia Javed** during the class peer-review and T-shirt research work. We exchanged feedback on our brand-studio projects and used GitHub issues to record suggestions, decisions, revisions, and verification. My PUREFORM peer-review issues and follow-up work are linked below:
-- [Issue #3 — Audience feedback](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/3)
 - [Issue #5 — Homepage wording](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/5)
 - [Issue #6 — Style-guide status](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/6)
 - [Issue #7 — Studio logo alt text](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/7)
@@ -116,7 +115,7 @@ Learner-reported style-guide accuracy review: the learner opened the live PUREFO
 
 ## Peer review and feedback
 
-- Classmate feedback on the selected audience is recorded in [Issue #3](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/3). Decision: keep young adults ages 18–25, especially college students, as the primary audience; this remains an unvalidated hypothesis.
+- The selected audience (young adults ages 18–25, especially college students) remains my own brand hypothesis; it has not been validated through customer research. Issue #3 is my own issue, not a classmate-feedback issue.
 - Accepted homepage wording feedback in [Issue #5](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/5). The classmate verified on `main` that the updated message reflects PUREFORM and retains the classroom-demonstration disclaimer.
 - Accepted style-guide status feedback in [Issue #6](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/6). The classmate verified that approved logo and Modernist decisions are distinguished from the audience hypothesis.
 - Accepted studio logo accessibility feedback in [Issue #7](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/7). The alt text now reads “PUREFORM logo”; the classmate verified it on `main`. This change was merged through [PR #8](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/8).
