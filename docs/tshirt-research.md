@@ -71,7 +71,7 @@ PUREFORM should help visitors make an informed choice rather than pressure them.
 
 ## 7. Peer feedback and revision record
 
-**Classmate feedback:** My classmate reviewed the PUREFORM audience and agreed with the choice of young adults ages 18–25, especially college students, who want affordable, comfortable, simple T-shirts for everyday wear. The feedback and decision to keep this audience are recorded in [Issue #3](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/3). This audience remains a hypothesis and has not been validated through customer interviews or sales data.
+**Audience decision:** The choice of young adults ages 18–25, especially college students, is my own audience hypothesis for PUREFORM. Issue #3 is an issue I created, not feedback from my classmate. I have not validated this audience through customer interviews or sales data. The peer-review feedback I received is recorded separately in Issues #5, #6, and #7.
 
 **Additional peer-review feedback:** My classmate also reviewed the homepage wording ([Issue #5](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/5)), style-guide status ([Issue #6](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/6)), and studio logo alt text ([Issue #7](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/7)). I accepted these suggestions and made the changes. The classmate confirmed the homepage wording and style-guide status changes on the main branch. The studio logo alt-text correction was merged through [PR #8](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/8), and the classmate verified that the alt text says “PUREFORM logo.”
 
