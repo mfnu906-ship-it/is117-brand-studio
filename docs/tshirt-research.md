@@ -32,10 +32,10 @@
 
 ## 2. Two possible brand positions
 
-| Position | Main idea | Benefit to the audience | Trade-off |
-|---|---|---|---|
-| Affordable everyday basics | Comfortable, simple T-shirts at a reasonable price for regular use | Useful for students and young adults who want easy-to-match clothing without spending too much | Must explain product value clearly without making unsupported quality claims |
-| Premium minimalist essentials | Minimalist T-shirts presented as a more exclusive, higher-priced wardrobe choice | Appeals to shoppers who prioritize a premium image and a consistent minimalist wardrobe | Less consistent with the affordable, approachable brand promise |
+| Position                      | Main idea                                                                        | Benefit to the audience                                                                        | Trade-off                                                                    |
+| ----------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Affordable everyday basics    | Comfortable, simple T-shirts at a reasonable price for regular use               | Useful for students and young adults who want easy-to-match clothing without spending too much | Must explain product value clearly without making unsupported quality claims |
+| Premium minimalist essentials | Minimalist T-shirts presented as a more exclusive, higher-priced wardrobe choice | Appeals to shoppers who prioritize a premium image and a consistent minimalist wardrobe        | Less consistent with the affordable, approachable brand promise              |
 
 **Chosen position:** Affordable everyday basics. This fits the current PUREFORM promise of comfortable, affordable, simple everyday T-shirts. The premium position is less suitable because I want PUREFORM to feel accessible rather than expensive or exclusive.
 
