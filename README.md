@@ -47,17 +47,17 @@ Saved changes under `public/` refresh the local site; the demo bag resets when t
 
 ## What is here
 
-| File                                   | Purpose                                                                                                    |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| `public/index.html`                    | PUREFORM storefront with optional style goals, styling suggestions, size selector, and demo bag            |
-| `public/styleguide.html`               | Live identity board using the storefront's shared styles and assets                                        |
-| `public/research.html`                 | Published PUREFORM T-shirt competitor, positioning, and audience research                                  |
-| `docs/tshirt-research.md`              | Detailed T-shirt research record, assumptions, and peer-feedback decisions                               |
-| `public/studio.html`                   | Short PUREFORM studio overview |
-| [SPEC.md](SPEC.md)                     | The concise record of your chosen decisions and evidence                                                   |
-| [AGENTS.md](AGENTS.md)                 | Instructions for your AI coach                                                                             |
-| [LEARNING.md](LEARNING.md)             | Brief AI-drafted conversation evidence for you to review; no full transcript or automatic grade            |
-| [docs/reference.md](docs/reference.md) | Short explanations and source links to use when needed                                                     |
+| File                                   | Purpose                                                                                         |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| `public/index.html`                    | PUREFORM storefront with optional style goals, styling suggestions, size selector, and demo bag |
+| `public/styleguide.html`               | Live identity board using the storefront's shared styles and assets                             |
+| `public/research.html`                 | Published PUREFORM T-shirt competitor, positioning, and audience research                       |
+| `docs/tshirt-research.md`              | Detailed T-shirt research record, assumptions, and peer-feedback decisions                      |
+| `public/studio.html`                   | Short PUREFORM studio overview                                                                  |
+| [SPEC.md](SPEC.md)                     | The concise record of your chosen decisions and evidence                                        |
+| [AGENTS.md](AGENTS.md)                 | Instructions for your AI coach                                                                  |
+| [LEARNING.md](LEARNING.md)             | Brief AI-drafted conversation evidence for you to review; no full transcript or automatic grade |
+| [docs/reference.md](docs/reference.md) | Short explanations and source links to use when needed                                          |
 
 The README is the authoritative startup path. The online overview introduces the exercise; it does not replace your local project or chat.
 
