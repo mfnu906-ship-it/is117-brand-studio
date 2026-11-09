@@ -25,6 +25,15 @@ The primary need guides the page. Give the secondary card one contrasting need t
 | What the page should help them decide | Whether the simple shirt suits their everyday wear and is easy to match                                                                                                       | Whether the shirt is a versatile basic for a consistent minimalist wardrobe                                                                            |
 | Evidence or assumption                | Learner's audience hypothesis; not validated                                                                                                                                  | Learner's contrasting-need hypothesis; not validated                                                                                                   |
 
+## Collaboration and peer review
+
+I worked with **Ghazia Javed** during the class peer-review and T-shirt research work. We exchanged feedback on our brand-studio projects and used GitHub issues to record suggestions, decisions, revisions, and verification. My PUREFORM peer-review issues and follow-up work are linked below:
+- [Issue #3 — Audience feedback](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/3)
+- [Issue #5 — Homepage wording](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/5)
+- [Issue #6 — Style-guide status](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/6)
+- [Issue #7 — Studio logo alt text](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/7)
+- [PR #8 — Logo alt-text correction](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/8)
+
 ## T-shirt competitor research
 
 The initial T-shirt research reviewed three clothing websites on November 5, 2026:
