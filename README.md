@@ -1,8 +1,8 @@
-# IS117 Brand Studio
+# PUREFORM — IS117 Brand Studio
 
 **PUREFORM's Modernist brand direction centers on a promise of simple, affordable everyday T-shirts.** This project applies its audience hypotheses, Everyman character, friendly voice, original geometric P logo, neutral palette with rust-red accents, and two optional styling features to a working storefront and live style guide.
 
-BRAND-001 is still in progress; its pull request has not yet been created or merged. The audience and product claims remain hypotheses or unsubstantiated learner-proposed language; the page uses fictional demo product data. The demo bag does not take payments or place orders.
+BRAND-001 is complete and merged into `main` through [PR #2](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/2). The T-shirt research page and documentation were added through [PR #4](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/4), and the studio logo alt-text correction was merged through [PR #8](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/8). The audience remains a hypothesis, and comfort and affordability claims have not been validated by customer research. The page uses fictional demo product data; the demo bag does not take payments or place orders.
 
 **A short record, visible to you:** your AI coach updates [LEARNING.md](LEARNING.md) with brief task-related explanations, observations and help received. It is AI-drafted, not a full transcript, and may be public with your repository. Review it and correct or remove excerpts before they are committed or pushed. Your instructor uses it alongside the project with this [simple three-part rubric](docs/assessment.md); the AI does not assign your grade.
 
@@ -41,7 +41,7 @@ If a command fails, paste the real error into the same chat. If the port is in u
 
 PUREFORM's decisions and implementation evidence are recorded in [SPEC.md](SPEC.md); the short learner contribution and review record is in [LEARNING.md](LEARNING.md). The audience descriptions are hypotheses, not customer research. The Modernist direction, original logo, live style guide, free styling tip, and optional style-goal suggestions are part of the current storefront.
 
-`BRAND-001` is in progress on `feature/brand-001`, with issue #1 in the student repository. The current LEARNING.md excerpts have been reviewed for accuracy. The pull request and merge decision remain for the learner; keep the feature in progress until the pull request is merged. There is no checkout, payment, account, or persistent bag.
+`BRAND-001` is complete: issue #1 was implemented on `feature/brand-001` and merged into `main` through PR #2 on November 3, 2026. The research page and documentation were merged through PR #4 on November 9, 2026. Peer-review decisions and verification are recorded in `docs/tshirt-research.md`, `SPEC.md`, and `LEARNING.md`. There is no checkout, payment, account, or persistent bag.
 
 Saved changes under `public/` refresh the local site; the demo bag resets when the page reloads. Use the prepared checks described below when making further changes, and record only observations that were actually made. No customer evidence or unsupported product facts should be added.
 
@@ -52,8 +52,8 @@ Saved changes under `public/` refresh the local site; the demo bag resets when t
 | `public/index.html`                    | PUREFORM storefront with optional style goals, styling suggestions, size selector, and demo bag            |
 | `public/styleguide.html`               | Live identity board using the storefront's shared styles and assets                                        |
 | `public/research.html`                 | Published PUREFORM T-shirt competitor, positioning, and audience research                                  |
-| `docs/tshirt-research.md`              | Detailed T-shirt research record, assumptions, and peer-feedback placeholder                               |
-| `public/studio.html`                   | Short studio overview, also [available online](https://kaw393939.github.io/is117-brand-studio/studio.html) |
+| `docs/tshirt-research.md`              | Detailed T-shirt research record, assumptions, and peer-feedback decisions                               |
+| `public/studio.html`                   | Short PUREFORM studio overview |
 | [SPEC.md](SPEC.md)                     | The concise record of your chosen decisions and evidence                                                   |
 | [AGENTS.md](AGENTS.md)                 | Instructions for your AI coach                                                                             |
 | [LEARNING.md](LEARNING.md)             | Brief AI-drafted conversation evidence for you to review; no full transcript or automatic grade            |
