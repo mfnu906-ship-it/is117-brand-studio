@@ -71,10 +71,10 @@ PUREFORM should help visitors make an informed choice rather than pressure them.
 
 ## 7. Peer feedback and revision record
 
-**Classmate feedback:** Pending. In class, ask a classmate to question one website observation and explain PUREFORM's audience back to me.
+**Classmate feedback:** My classmate reviewed the PUREFORM audience and agreed with the choice of young adults ages 18–25, especially college students, who want affordable, comfortable, simple T-shirts for everyday wear. The feedback and decision to keep this audience are recorded in [Issue #3](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/3). This audience remains a hypothesis and has not been validated through customer interviews or sales data.
 
-**GitHub feedback issue:** Add the issue link here after the classmate feedback is recorded.
+**Additional peer-review feedback:** My classmate also reviewed the homepage wording ([Issue #5](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/5)), style-guide status ([Issue #6](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/6)), and studio logo alt text ([Issue #7](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/7)). I accepted these suggestions and made the changes. The classmate confirmed the homepage wording and style-guide status changes on the main branch. The studio logo alt-text correction was merged through [PR #8](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/8), and the classmate verified that the alt text says “PUREFORM logo.”
 
-**Decision / revision:** Pending. Record whether I revised the observation or kept it, and explain why.
+**Decision / revision:** Keep the selected target audience because the classmate agreed it fits the affordable everyday basics position. Update the homepage message to communicate the brand more clearly while retaining the classroom-demo disclaimer. Clarify which style-guide elements are approved and which audience details remain hypotheses. Update the studio logo alt text for screen-reader clarity.
 
-**Verification:** Pending. Re-read this page after the revision and confirm that the source, observation, implication, audience choice, and assumptions are clear.
+**Verification:** The classmate checked the homepage wording, style-guide status, and studio logo alt text on `main`. The T-shirt research was added to the repository through [PR #4](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/4). These checks confirm the specific changes, but they do not prove customer demand or validate comfort and affordability claims.
