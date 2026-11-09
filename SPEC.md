@@ -25,6 +25,18 @@ The primary need guides the page. Give the secondary card one contrasting need t
 | What the page should help them decide | Whether the simple shirt suits their everyday wear and is easy to match                                                                                                       | Whether the shirt is a versatile basic for a consistent minimalist wardrobe                                                                            |
 | Evidence or assumption                | Learner's audience hypothesis; not validated                                                                                                                                  | Learner's contrasting-need hypothesis; not validated                                                                                                   |
 
+## T-shirt competitor research
+
+The initial T-shirt research reviewed three clothing websites on November 5, 2026:
+
+| Brand | Website observation | What PUREFORM can learn |
+| --- | --- | --- |
+| **UNIQLO** ([uniqlo.com](https://www.uniqlo.com/)) | Presents everyday clothing with an emphasis on practical basics, simple styling, and wearable colors. Product pages help shoppers compare styles and product details. | Keep the T-shirt design simple, make product information easy to scan, and show how one basic shirt can work with different everyday outfits. |
+| **H&M** ([hm.com](https://www.hm.com/)) | Presents clothing across different styles and trends, including casual basics, using product images, categories, and outfit styling to support browsing. | Offer clear choices such as color and fit while keeping PUREFORM's presentation simple and not overcrowded. |
+| **Cotton On** ([cottonon.com](https://cottonon.com/)) | Presents casual clothing and everyday looks with a relaxed, youthful visual style. Product and outfit imagery helps show how items might be worn. | Use friendly, approachable language and everyday styling examples while keeping PUREFORM's website cleaner and more minimal. |
+
+**Research conclusion:** These examples informed the decision to position PUREFORM as affordable everyday basics for young adults, especially college students. The observations are interpretations of the public websites, not customer interviews, sales data, or proof of customer preferences. See the detailed research and assumptions in [docs/tshirt-research.md](docs/tshirt-research.md).
+
 ## Early brand brief
 
 | Decision                                 | Agreement                                                                                                                                                                                                                          |
