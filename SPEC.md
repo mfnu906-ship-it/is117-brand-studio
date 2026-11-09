@@ -28,6 +28,7 @@ The primary need guides the page. Give the secondary card one contrasting need t
 ## Collaboration and peer review
 
 I worked with **Ghazia Javed** during the class peer-review and T-shirt research work. We exchanged feedback on our brand-studio projects and used GitHub issues to record suggestions, decisions, revisions, and verification. My PUREFORM peer-review issues and follow-up work are linked below:
+
 - [Issue #5 — Homepage wording](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/5)
 - [Issue #6 — Style-guide status](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/6)
 - [Issue #7 — Studio logo alt text](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/7)
@@ -37,11 +38,11 @@ I worked with **Ghazia Javed** during the class peer-review and T-shirt research
 
 The initial T-shirt research reviewed three clothing websites on November 5, 2026:
 
-| Brand | Website observation | What PUREFORM can learn |
-| --- | --- | --- |
-| **UNIQLO** ([uniqlo.com](https://www.uniqlo.com/)) | Presents everyday clothing with an emphasis on practical basics, simple styling, and wearable colors. Product pages help shoppers compare styles and product details. | Keep the T-shirt design simple, make product information easy to scan, and show how one basic shirt can work with different everyday outfits. |
-| **H&M** ([hm.com](https://www.hm.com/)) | Presents clothing across different styles and trends, including casual basics, using product images, categories, and outfit styling to support browsing. | Offer clear choices such as color and fit while keeping PUREFORM's presentation simple and not overcrowded. |
-| **Cotton On** ([cottonon.com](https://cottonon.com/)) | Presents casual clothing and everyday looks with a relaxed, youthful visual style. Product and outfit imagery helps show how items might be worn. | Use friendly, approachable language and everyday styling examples while keeping PUREFORM's website cleaner and more minimal. |
+| Brand                                                 | Website observation                                                                                                                                                   | What PUREFORM can learn                                                                                                                       |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UNIQLO** ([uniqlo.com](https://www.uniqlo.com/))    | Presents everyday clothing with an emphasis on practical basics, simple styling, and wearable colors. Product pages help shoppers compare styles and product details. | Keep the T-shirt design simple, make product information easy to scan, and show how one basic shirt can work with different everyday outfits. |
+| **H&M** ([hm.com](https://www.hm.com/))               | Presents clothing across different styles and trends, including casual basics, using product images, categories, and outfit styling to support browsing.              | Offer clear choices such as color and fit while keeping PUREFORM's presentation simple and not overcrowded.                                   |
+| **Cotton On** ([cottonon.com](https://cottonon.com/)) | Presents casual clothing and everyday looks with a relaxed, youthful visual style. Product and outfit imagery helps show how items might be worn.                     | Use friendly, approachable language and everyday styling examples while keeping PUREFORM's website cleaner and more minimal.                  |
 
 **Research conclusion:** These examples informed the decision to position PUREFORM as affordable everyday basics for young adults, especially college students. The observations are interpretations of the public websites, not customer interviews, sales data, or proof of customer preferences. See the detailed research and assumptions in [docs/tshirt-research.md](docs/tshirt-research.md).
 
