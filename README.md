@@ -51,6 +51,8 @@ Saved changes under `public/` refresh the local site; the demo bag resets when t
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | `public/index.html`                    | PUREFORM storefront with optional style goals, styling suggestions, size selector, and demo bag            |
 | `public/styleguide.html`               | Live identity board using the storefront's shared styles and assets                                        |
+| `public/research.html`                  | Published PUREFORM T-shirt competitor, positioning, and audience research                                   |
+| `docs/tshirt-research.md`               | Detailed T-shirt research record, assumptions, and peer-feedback placeholder                                |
 | `public/studio.html`                   | Short studio overview, also [available online](https://kaw393939.github.io/is117-brand-studio/studio.html) |
 | [SPEC.md](SPEC.md)                     | The concise record of your chosen decisions and evidence                                                   |
 | [AGENTS.md](AGENTS.md)                 | Instructions for your AI coach                                                                             |
