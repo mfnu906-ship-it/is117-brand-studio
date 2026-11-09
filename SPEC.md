@@ -4,7 +4,7 @@ This is the durable agreement between the learner and agent. Keep it concise and
 
 ## Current stage
 
-- Stage: BRAND-001 is complete and merged into `main` via [PR #2](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/2).
+- Stage: BRAND-001 is complete and merged into `main` via [PR #2](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/2). The T-shirt research page and documentation were added through [PR #4](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/4); the studio logo alt-text fix was merged through [PR #8](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/8).
 - Current feature: `BRAND-001` — first branded storefront and live style guide.
 - Status: Complete; PR #2 merged into `main` on 2026-11-03.
 - Next step: No follow-up feature is selected.
@@ -92,6 +92,14 @@ Learner-reported keyboard observation (live homepage only): the learner used Tab
 Learner-reported mobile review (390 × 844): the learner inspected the live PUREFORM storefront and confirmed the product section, all four size options, and Add to demo bag button fit within the mobile layout. After selecting a size, the learner confirmed it was clearly highlighted. No obvious horizontal overflow or cut-off content was observed in the reviewed sections. This review is complete for the stated viewport and sections only; it does not establish that every screen size or device was tested.
 
 Learner-reported style-guide accuracy review: the learner opened the live PUREFORM style guide and confirmed the logo, selected colors including rust red, typography, friendly and approachable brand voice, and affordable everyday T-shirt direction look correct. Review completed; no additional feedback recorded.
+
+## Peer review and feedback
+
+- Classmate feedback on the selected audience is recorded in [Issue #3](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/3). Decision: keep young adults ages 18–25, especially college students, as the primary audience; this remains an unvalidated hypothesis.
+- Accepted homepage wording feedback in [Issue #5](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/5). The classmate verified on `main` that the updated message reflects PUREFORM and retains the classroom-demonstration disclaimer.
+- Accepted style-guide status feedback in [Issue #6](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/6). The classmate verified that approved logo and Modernist decisions are distinguished from the audience hypothesis.
+- Accepted studio logo accessibility feedback in [Issue #7](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/7). The alt text now reads “PUREFORM logo”; the classmate verified it on `main`. This change was merged through [PR #8](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/8).
+- Detailed competitor research, peer-feedback decisions, and revision notes are recorded in [docs/tshirt-research.md](docs/tshirt-research.md).
 
 ## Later
 
