@@ -1,80 +1,132 @@
 # PUREFORM — T-shirt Research
 
-**Research date:** November 5, 2026  
+**Initial research date:** November 5, 2026  
+**Source recheck date:** November 11, 2026  
 **Project:** PUREFORM  
-**Status:** Initial research draft; observations below are based on a review of the linked public clothing websites, not customer interviews or sales data.
+**Research status:** Competitor pages rechecked and linked below. This is desk research of public retailer pages, not customer interviews, a survey, or sales research.
 
-## 1. Three clothing websites
+## 1. Research question and method
 
-### UNIQLO
+**Research question:** How can PUREFORM present an everyday T-shirt so a visitor can understand the product, consider a simple outfit idea, and choose an option without an overwhelming shopping experience?
 
-- **Source:** https://www.uniqlo.com/
-- **Research date:** November 5, 2026
-- **Observation:** UNIQLO presents everyday clothing with an emphasis on practical basics, simple styling, and wearable colors. Its product pages help shoppers compare styles and product details.
-- **What this suggests for PUREFORM:** Keep the T-shirt design simple and make the product information easy to scan. Show how one basic shirt can work with different everyday outfits.
-- **Audience / positioning / character / visual style:** The site is useful as a reference for people shopping for practical everyday basics. Its presentation suggests a functional, straightforward position and a clean product-focused look. This is my interpretation of the site, not a claim about every UNIQLO customer.
+I reviewed the official US T-shirt or tops pages for UNIQLO, H&M, and Cotton On on November 11, 2026. I recorded what was visible on those pages and then wrote a separate interpretation for PUREFORM. Retailer pages can change, so the date matters. The observations describe the pages, not what all customers think or buy.
 
-### H&M
+## 2. Original sources and observed evidence
 
-- **Source:** https://www.hm.com/
-- **Research date:** November 5, 2026
-- **Observation:** H&M presents clothing across different styles and trends, including casual basics. Its online store uses product images, categories, and outfit styling to help shoppers browse options.
-- **What this suggests for PUREFORM:** PUREFORM can remain affordable and simple while showing clear choices such as color and fit. The site should feel current without adding too many competing visual elements.
-- **Audience / positioning / character / visual style:** H&M's broad assortment and trend-led presentation can appeal to shoppers looking for accessible fashion. Its visual presentation is more varied than the minimal direction planned for PUREFORM. This is an interpretation based on the website.
+### UNIQLO — product-first basics
 
-### Cotton On
+- **Original source:** [UNIQLO US — Men's T-Shirts](https://www.uniqlo.com/us/en/men/tops/t-shirts)
+- **Reviewed:** November 11, 2026
+- **Evidence observed:** The page describes its T-shirts as designed for everyday comfort, easy layering, and versatile wear. The page separates short-sleeve and long-sleeve sections and provides sort choices including price low-to-high, price high-to-low, and top rated. It presents examples such as the Crew Neck T-Shirt and AIRism Cotton Oversized T-Shirt.
+- **Interpretation:** This is a product-first way to organize basic T-shirts. The page gives visitors a straightforward category and product descriptions before asking them to compare more options.
+- **PUREFORM decision:** Keep the first PUREFORM page focused on one white T-shirt, with the product image, product information, and size choices together. Do not turn the first page into a large catalog.
+- **What this does not prove:** It does not prove PUREFORM customers want only one style or that a product-first layout will increase sales.
 
-- **Source:** https://cottonon.com/
-- **Research date:** November 5, 2026
-- **Observation:** Cotton On presents casual clothing and everyday looks with a relaxed, youthful visual style. Its product and outfit imagery helps communicate how items might be worn.
-- **What this suggests for PUREFORM:** PUREFORM can use friendly, approachable language and everyday styling examples. Product images should help the customer imagine wearing the T-shirt in normal situations.
-- **Audience / positioning / character / visual style:** The presentation suggests a casual lifestyle position and an approachable tone. PUREFORM can borrow the relaxed feeling while keeping its own website cleaner and more minimal. This is my interpretation.
+### H&M — breadth of fits and options
 
-## 2. Two possible brand positions
+- **Original source:** [H&M US — Men's Basic T-Shirts](https://www2.hm.com/en_us/men/products/basics/t-shirts.html)
+- **Reviewed:** November 11, 2026
+- **Evidence observed:** The category page shows regular-fit, slim-fit, relaxed-fit, and oversized T-shirts. Its accompanying description mentions V-neck and crewneck styles, short and long sleeves, staple and brighter colors, and multipack options.
+- **Interpretation:** H&M makes variety visible by offering several fit, style, color, and pack choices in the same category. This gives shoppers more ways to compare, but it also creates more options to scan.
+- **PUREFORM decision:** For the current classroom prototype, keep the selection simple: one example shirt with S, M, L, and XL demo size choices. Keep the price and product data clearly labeled as fictional demonstration content.
+- **What this does not prove:** The category does not establish which fit or size young adults prefer, and the product assortment is not evidence of demand for PUREFORM.
 
-| Position                      | Main idea                                                                        | Benefit to the audience                                                                        | Trade-off                                                                    |
-| ----------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Affordable everyday basics    | Comfortable, simple T-shirts at a reasonable price for regular use               | Useful for students and young adults who want easy-to-match clothing without spending too much | Must explain product value clearly without making unsupported quality claims |
-| Premium minimalist essentials | Minimalist T-shirts presented as a more exclusive, higher-priced wardrobe choice | Appeals to shoppers who prioritize a premium image and a consistent minimalist wardrobe        | Less consistent with the affordable, approachable brand promise              |
+### Cotton On — styling in everyday situations
 
-**Chosen position:** Affordable everyday basics. This fits the current PUREFORM promise of comfortable, affordable, simple everyday T-shirts. The premium position is less suitable because I want PUREFORM to feel accessible rather than expensive or exclusive.
+- **Original source:** [Cotton On US — Men's Tops](https://cottonon.com/US/co/men/mens-clothing/mens-tops/)
+- **Reviewed:** November 11, 2026
+- **Evidence observed:** The page has a section titled “How to Style Men’s T-Shirts and Tanks.” It describes outfit combinations such as an essential tee with straight denim and sneakers, or a tee with a hoodie or overshirt. It also gives examples for study, studio, gym, and casual situations.
+- **Interpretation:** The retailer does more than list products; it gives context for how a basic tee could be worn in an ordinary day.
+- **PUREFORM decision:** Add a short free styling tip and optional style goals to help visitors imagine a simple outfit or match the shirt with clothes they already own. Keep these ideas optional so a visitor can shop without selecting a goal.
+- **What this does not prove:** It does not prove PUREFORM visitors need styling advice or that these combinations are preferred by our intended audience.
 
-## 3. Two short audience persona hypotheses
+## 3. Comparison and alternatives
 
-These are hypotheses for planning, not validated customer research.
+The three pages show different approaches:
+
+- **UNIQLO:** a product-first basics page with sections and concise product descriptions.
+- **H&M:** a broad range of fits, colors, sleeve types, and multipacks for comparison.
+- **Cotton On:** product categories plus written outfit suggestions linked to everyday situations.
+
+For the first PUREFORM version, I chose a mix of the UNIQLO and Cotton On approaches: keep the product presentation focused, then offer a small amount of optional styling help. I did not copy H&M's broader assortment because the current project is about one T-shirt and a clear first impression, not building a full retailer catalog.
+
+I also considered two brand positions:
+
+- **Affordable everyday basics:** simple T-shirts intended to feel accessible and easy to style. This fits the current PUREFORM brief and Everyman character.
+- **Premium minimalist essentials:** minimalist T-shirts presented as more exclusive or higher-priced. I did not choose this because I want PUREFORM to feel friendly and accessible rather than exclusive.
+
+The position is a learner decision, not a result proven by these retailer pages. The fictional product data and demo price on the storefront are not real market-price research.
+
+## 4. Research-to-feature trace
+
+### Finding 1: A focused product page can make the basic item easy to inspect
+
+- **Source finding:** UNIQLO separates T-shirt types and provides short descriptions of the products.
+- **Design decision:** PUREFORM uses a single main product area with a large shirt image, short description, and visible size choices.
+- **Implementation:** [public/index.html](../public/index.html), product section.
+- **Check:** Browser tests cover selecting a size, adding to the demo bag, emptying it, keyboard operation, and narrow-screen layout in [tests/browser/studio.spec.js](../tests/browser/studio.spec.js).
+- **Evidence boundary:** These checks show the prototype interactions work; they do not show that customers prefer this layout.
+
+### Finding 2: Too many product variations would expand the current scope
+
+- **Source finding:** H&M presents several fits, colors, sleeve types, and multipack choices on one category page.
+- **Design decision:** PUREFORM currently demonstrates one shirt and a short list of size choices rather than a large catalog.
+- **Implementation:** [public/index.html](../public/index.html), size selector and fictional product-data disclaimer.
+- **Check:** Browser tests verify the size controls and that adding without a size shows an error while leaving the demo bag empty.
+- **Evidence boundary:** The current S, M, L, and XL choices are demo controls, not proof that these sizes or a particular fit meet customer needs.
+
+### Finding 3: Outfit examples can make a basic T-shirt easier to imagine in context
+
+- **Source finding:** Cotton On gives examples pairing a tee with denim, sneakers, a hoodie, or an overshirt in study and casual situations.
+- **Design decision:** PUREFORM adds the free styling tip “Try a white tee with denim and a layer you already own” and two optional style goals: “Keep my outfit simple” and “Match this with clothes I own.”
+- **Implementation:** [public/index.html](../public/index.html), styling tip and optional style-goal controls.
+- **Check:** Browser tests verify each goal displays its matching suggestion and that shopping still works with no style goal selected. A peer retry is requested in [Issue #9](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/9).
+- **Evidence boundary:** The feature and automated tests show the interaction was implemented and tested. They do not prove that visitors find the tip useful or that the target audience is validated.
+
+## 5. Audience hypotheses
+
+These are planning hypotheses, not customer research.
 
 **Persona A — College student (primary hypothesis)**  
-A college student aged 18–25 who attends classes, meets friends, and wants a comfortable, affordable T-shirt that is easy to match with everyday outfits. Their main concern may be whether a basic shirt looks good for different casual situations while staying within budget.
+A college student aged 18–25 who attends classes, meets friends, and wants a simple T-shirt that can work with everyday outfits. A possible concern is whether the shirt feels appropriate for different casual situations and fits within a budget.
 
 **Persona B — Young adult building a minimalist wardrobe (secondary hypothesis)**  
-A young adult aged 18–25 who prefers a consistent, simple wardrobe. They want versatile basics that coordinate with clothes they already own. Their main concern may be whether the shirt works with their existing outfits.
+A young adult aged 18–25 who prefers a consistent, simple wardrobe and wants versatile basics that coordinate with clothes they already own. A possible concern is whether the shirt works with their existing outfits.
 
-**Chosen audience:** Young adults ages 18–25, especially college students. This audience matches the affordable everyday position and the situations described in the PUREFORM brand brief. The audience choice is currently a hypothesis and should be checked through peer feedback or later customer research.
+**Chosen audience:** Young adults ages 18–25, especially college students. This is my working audience hypothesis. I have not validated it through customer interviews, a survey, or sales data.
 
-## 4. Brand character and visual direction
+## 6. Brand character, visual direction, and honest persuasion
 
-PUREFORM uses the **Everyman** archetype and a friendly, simple, approachable voice. I want the brand to feel relatable and useful for everyday people, not luxurious or intimidating.
+PUREFORM uses the **Everyman** archetype and a friendly, simple, approachable voice. The intended character is relatable and useful for everyday people, not luxurious or intimidating.
 
-The chosen visual direction is **modernist**: a clean layout, clear hierarchy, simple typography, open spacing, neutral colors, and rust-red accents. This supports the goal of making the product and shopping information easy to understand. The existing Brand Studio previews and storefront are the implementation evidence for this direction.
+The chosen visual direction is **modernist**: a clean layout, clear hierarchy, simple typography, open spacing, neutral colors, and rust-red accents. The intended benefit is to make the product and shopping information easy to scan. This is a design rationale, not a measured usability result.
 
-## 5. Honest persuasion
+PUREFORM should help visitors make an informed choice rather than pressure them. It should not invent reviews, limited stock, discounts, material details, sustainability claims, or product-performance claims. The product data and $28 price shown in the prototype are fictional classroom-demo content.
 
-PUREFORM should help visitors make an informed choice rather than pressure them. Use accurate product descriptions, clear prices, realistic images, and visible size choices. Do not invent reviews, limited stock, discounts, material details, sustainability claims, or product-performance claims. Styling suggestions should be optional and should not block shopping.
+## 7. Assumptions and open questions
 
-## 6. Assumptions and open questions
-
-- I assume college students value affordability and easy-to-match basics; I have not validated this with a survey.
-- I assume a clean, minimal website will make it easier to understand the product; this needs peer or user feedback.
+- I assume college students value affordable, easy-to-match basics; I have not validated this with a survey.
+- I assume a clean, minimal website will make the product easier to understand; this needs peer or user feedback.
 - I have not confirmed whether the target audience prefers regular or oversized fit.
 - I have not established what price customers would actually pay.
-- I should verify the specific product-page details and current examples I discuss before using them as evidence in a final presentation.
+- I have not tested whether the optional styling ideas are useful to visitors.
 
-## 7. Peer feedback and revision record
+## 8. Peer feedback, decisions, and review status
 
-**Audience decision:** The choice of young adults ages 18–25, especially college students, is my own audience hypothesis for PUREFORM. Issue #3 is an issue I created, not feedback from my classmate. I have not validated this audience through customer interviews or sales data. The peer-review feedback I received is recorded separately in Issues #5, #6, and #7.
+**Feedback received in the PUREFORM repository:**
 
-**Additional peer-review feedback:** My classmate also reviewed the homepage wording ([Issue #5](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/5)), style-guide status ([Issue #6](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/6)), and studio logo alt text ([Issue #7](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/7)). I accepted these suggestions and made the changes. The classmate confirmed the homepage wording and style-guide status changes on the main branch. The studio logo alt-text correction was merged through [PR #8](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/8), and the classmate verified that the alt text says “PUREFORM logo.”
+- [Issue #5 — homepage wording](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/5): accepted. The homepage wording was updated while keeping the classroom-demo disclaimer. The reviewer checked the updated text on `main` and confirmed it addressed the feedback.
+- [Issue #6 — style-guide status](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/6): accepted. The status wording was clarified to distinguish approved identity decisions from audience assumptions. The reviewer checked the updated style guide.
+- [Issue #7 — studio logo alt text](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/7): accepted. The alt text was changed to “PUREFORM logo” and merged through [PR #8](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/8). The reviewer checked the logo description and homepage link.
 
-**Decision / revision:** Keep the selected target audience because the classmate agreed it fits the affordable everyday basics position. Update the homepage message to communicate the brand more clearly while retaining the classroom-demo disclaimer. Clarify which style-guide elements are approved and which audience details remain hypotheses. Update the studio logo alt text for screen-reader clarity.
+**Feedback given to a classmate:** Three constructive issues were filed in the classmate's THE EDIT repository: [Issue #5](https://github.com/grrvbwpv6g-create/is117-brand-studio/issues/5), [Issue #6](https://github.com/grrvbwpv6g-create/is117-brand-studio/issues/6), and [Issue #7](https://github.com/grrvbwpv6g-create/is117-brand-studio/issues/7). The first two were addressed in merged PRs #8 and #9; the logo-introduction suggestion was deferred with a design rationale. The issues and classmate's responses remain the review record.
 
-**Verification:** The classmate checked the homepage wording, style-guide status, and studio logo alt text on `main`. The T-shirt research was added to the repository through [PR #4](https://github.com/mfnu906-ship-it/is117-brand-studio/pull/4). These checks confirm the specific changes, but they do not prove customer demand or validate comfort and affordability claims.
+**New source-trace reviewer request:** [Issue #9 in the PUREFORM repository](https://github.com/mfnu906-ship-it/is117-brand-studio/issues/9) asks a reviewer to open the Cotton On source, trace the finding to the styling feature, and retry the published interaction. It remains open until the reviewer records that retry. Do not mark this step resolved before then.
+
+## 9. Verification and AI assistance
+
+The previous successful GitHub Actions run [#42719488758](https://github.com/mfnu906-ship-it/is117-brand-studio/actions/runs/42719488758) reported a successful check and publish workflow, including 7 server tests and 12 browser tests. That run verifies the code at its recorded commit; the latest documentation changes and the added research-page test route still need a fresh run after they are committed.
+
+The learner also recorded personal browser checks in [LEARNING.md](../LEARNING.md), including homepage first impression, keyboard navigation, mobile layout at 390 × 844, style-guide accuracy, optional style-goal behavior, and the demo-bag interaction. These are learner-reported checks for the specific pages and interactions described, not universal accessibility or customer-preference evidence.
+
+AI helped organize the research notes, compare the source-page content, draft the documentation structure, and prepare the implementation and browser-test changes. The learner remains responsible for checking the sources, deciding which findings matter, and approving the final claims.
