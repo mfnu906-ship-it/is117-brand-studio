@@ -1,0 +1,27 @@
+name: Temporary format inspection
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/temporary-format-inspection.yml"
+permissions:
+  contents: read
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - run: npm ci
+      - name: Print Prettier output
+        run: |
+          npx prettier --write public/research.html tests/browser/studio.spec.js
+          echo "FORMAT_HTML_START"
+          cat public/research.html
+          echo "FORMAT_HTML_END"
+          echo "FORMAT_JS_START"
+          cat tests/browser/studio.spec.js
+          echo "FORMAT_JS_END"
